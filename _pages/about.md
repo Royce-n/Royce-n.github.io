@@ -5,7 +5,8 @@ author_profile: true
 permalink: /about/
 ---
 
-![Profile Picture](/images/profile.png){:class="profile-pic"}
+![Profile Picture](images/profile.png){: .profile-pic }
+
 
 # Hi, I'm Royce Nguyen 👋
 
@@ -18,7 +19,7 @@ My interests include software development, algorithms, and creating professional
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/Royce-Nguyen)  
+- [LinkedIn](https://www.linkedin.com/in/royce-nguyen-218552210/)  
 - [GitHub](https://github.com/Royce-n)  
 
 ---
