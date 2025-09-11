@@ -5,7 +5,7 @@ author_profile: true
 permalink: /about/
 ---
 
-![Profile Picture](images/profile.png){: .profile-pic }
+![Profile Picture](profile.png){: .profile-pic }
 
 
 # Hi, I'm Royce Nguyen 👋
