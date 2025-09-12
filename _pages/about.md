@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Profile Picture](profile.png){: .profile-pic }
+![Profile Picture](/images/profile.png){: .profile-pic }
 
 
 # Hi, I'm Royce Nguyen 👋
